@@ -1,5 +1,6 @@
 # git aliases
 alias gad='git add'
+alias gbr='git branch'
 alias gcl='git clean'
 alias gcf='git config'
 alias gcm='git commit -m'
