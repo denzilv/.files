@@ -109,3 +109,4 @@ fi
 alias zshconfig="nvim ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias py="python3"
+alias tf="terraform"
